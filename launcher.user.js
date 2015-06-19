@@ -884,7 +884,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  originalName = "OYUNSAH.COM",
+  originalName = "n0t.funny",
   sessionScore = 0,
   serverIP = "",
   interNodes = [],
